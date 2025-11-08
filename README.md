@@ -50,3 +50,8 @@ node server.js
 cd frontend
 npm install
 npm start
+
+## Screen Shots
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/889cb69f-12bf-492e-aca1-566fa4554e4e" />
+
+
