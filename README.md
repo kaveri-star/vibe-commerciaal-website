@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/15394238-5cee-4312-9caf-3ba4c2cf5c87" />
 # 🛒 Mock E-Com Cart (Dark Mode)
 
 A full-stack shopping cart application built for **Vibe Commerce** screening — featuring a responsive dark-mode UI, RESTful APIs, and mock checkout functionality.
